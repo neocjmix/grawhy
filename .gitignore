@@ -17,6 +17,8 @@
 *.iml
 *.ipr
 /out/
+/client/out/
+/server/out/
 
 ### NetBeans ###
 /nbproject/private/
@@ -26,5 +28,5 @@
 /.nb-gradle/
 
 ## Gradle ##
-/client/out/
-/server/out/
+/server/build/
+/client/build/
