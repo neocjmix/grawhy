@@ -7,7 +7,7 @@
 /coverage
 
 # production
-/src/main
+/src/main/resources/static
 
 # misc
 .DS_Store
